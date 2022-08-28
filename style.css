@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    border:2px solid #f5f5f5;
+    margin: 20px;
+    padding: 40px;
+    background: #280053;
+}
+#Main {
+    background: #12136b;
+    color:#a9a9a9;
+    text-shadow: 1px 0.5px  white;
+    border: 2px solid steelblue;
+}
